@@ -4,3 +4,5 @@ import random
 lines = open("text.txt").read().splitlines()
 print random.choice(lines)
 
+'''output:
+you'''
