@@ -4,3 +4,8 @@ def getSize(file):
     st = os.stat(file)
     return st.st_size
 print getSize("text.txt")
+
+
+'''output:
+70
+'''
