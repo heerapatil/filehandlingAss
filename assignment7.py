@@ -3,7 +3,7 @@ def file(fname):
         with open(fname) as f:
                 for line in f:
                      array.append(line)
-                print(array)
+                print(array[2])
 
 file("text.txt")
 
