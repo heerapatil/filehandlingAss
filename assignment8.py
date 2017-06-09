@@ -1,6 +1,7 @@
+#8. Write a python program to find the longest words. 
 f=open("test.txt","r")
-long=''
+long=" "
 for l in f:
   if len(l)>len(long):
      long=l
-      print long
+  print long
