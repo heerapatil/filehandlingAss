@@ -2,7 +2,7 @@
 
 def read_file(fname):  
  with open(fname) as f:        
- print(f.readlines())  
+  print(f.readlines())  
  
 read_file("text.txt")
  
