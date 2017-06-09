@@ -2,5 +2,5 @@
 
 import random
 lines = open("text.txt").read().splitlines()
-print lines
+print random.choice(lines)
 
