@@ -3,5 +3,8 @@
 from collections import Counter
 with open("text.txt") as f:
     print Counter(f.read().split())
-
+    
+    
+'''OUTPUT:
+'''
     
