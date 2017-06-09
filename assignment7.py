@@ -1,3 +1,5 @@
+#7. Write a Python program to read a file line by line store it into an array. 
+
 def file(fname):
         array = []
         with open(fname) as f:
@@ -8,5 +10,5 @@ def file(fname):
 file("text.txt")
 
 '''output:
-['hello people\n', 'hi\n', 'how\n', 'are\n', 'you\n']
+how
 '''
