@@ -1,5 +1,5 @@
 from shutil import copyfile 
 import os
-os.system("touch file1.txt")
-copyfile("text.txt","file1.txt")
-print file1
+os.system("touch test.txt")
+copyfile("text.txt","test.txt")
+print test.txt
