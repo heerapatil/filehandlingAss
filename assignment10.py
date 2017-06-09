@@ -5,8 +5,8 @@ import os
     return st.st_size
 print getSize("text.txt")
 '''
-st=os.st_size("text.txt")
-print st
+st=os.stat("text.txt")
+print st.st_size
 
 '''output:
 70
