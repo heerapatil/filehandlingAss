@@ -1,7 +1,11 @@
 #5. Write a Python program to read a file line by line and store it into a list. 
 
-def read_file("text.txt"):  
- with open("text.txt") as f:        
+def read_file(fname):  
+ with open(fname) as f:        
  print(f.readlines())  
+ 
+read_file("text.txt")
+ 
+ 
  
   
