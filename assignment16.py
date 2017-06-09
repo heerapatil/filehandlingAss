@@ -2,4 +2,4 @@
 f=open("text.txt","r")
 for s in f:
     s.rstrip("\n")
-    print (text.txt)
+    print text.txt
