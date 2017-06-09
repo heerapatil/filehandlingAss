@@ -12,3 +12,9 @@ with open("text.txt", "w") as f:
 
 content = open("text.txt")
 print(content.read())
+
+'''output:
+one
+two
+three
+'''
