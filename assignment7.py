@@ -6,3 +6,7 @@ def file(fname):
                 print(array)
 
 file("text.txt")
+
+'''output:
+['hello people\n', 'hi\n', 'how\n', 'are\n', 'you\n']
+'''
