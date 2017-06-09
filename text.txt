@@ -1,12 +1,12 @@
-dfsdf
-dfsdf
-dfsdfs
-hello people
-hi
-how 
-are 
-you
-fsdfgsdhf
-dfsfksdf
-dfsdfsdf
-\n \n\ \n\n
+dfsdf \n,
+dfsdf \n
+dfsdfs \n
+hello people \n
+hi \n
+how \n
+are \n
+you \n
+fsdfgsdhf \n
+dfsfksdf \n
+dfsdfsdf \n
+
