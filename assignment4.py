@@ -5,7 +5,7 @@ def file(fname, nlines):
         with open(fname) as f:  
                 for line in islice(f, nlines):  
                         print(line)  
-file("test.txt",-2)  
+file("text.txt",-2)  
 
 
 '''
