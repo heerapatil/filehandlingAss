@@ -3,8 +3,8 @@
 def file(fname, nlines):  
         from itertools import islice  
         with open(fname) as f:  
-                fname.seek(0,2)
                 for line in islice(f, nlines):  
+                        line.seek(0,2)
                         print(line)  
 file("text.txt",2)  
 
