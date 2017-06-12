@@ -5,4 +5,7 @@ def file(fname, nlines):
                 for line in islice(f, nlines):  
                         print(line)  
 file('text.txt',2)  
-
+'''output:
+dgdfgfg \n
+dfsdf \n,
+'''
