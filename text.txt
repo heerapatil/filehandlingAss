@@ -1,7 +1,4 @@
-dgdfgfg \n
-dfsdf \n,
-dfsdf \n
-dfsdfs \n
+
 hello people \n
 hi \n
 how \n
